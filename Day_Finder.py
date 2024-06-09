@@ -1,5 +1,4 @@
 import difflib
-
 Odd_days = {
     "1": 3,
     "2": [0, 1],  
